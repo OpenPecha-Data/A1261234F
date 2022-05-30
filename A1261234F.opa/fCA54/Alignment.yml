@@ -1,0 +1,16 @@
+segment_sources:
+  I7491454A:
+    type: origin_type
+    relation: translation
+    language: en
+  I38D61D91:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bd0bfd827db04c73b64d9dfb1cf0abce:
+    I7491454A: b713e25d24aa4f349c446b86a1a47975
+    I38D61D91: 0297d8c6db734d55be71eb783da19802
+  55ac1a8cda1e42359ad84050b4420f31:
+    I7491454A: 1e00dd8a32414081b975fadd0d1d1100
+    I38D61D91: 1657043643644f21bdcb947f9333da99
